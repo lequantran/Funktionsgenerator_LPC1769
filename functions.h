@@ -2,7 +2,7 @@
  * functions.h
  *
  *  Created on: 05.12.2018
- *      Author: mct
+ *      Author: Andreas Gebel & Le Quan Tran
  */
 
 #ifndef FUNCTIONS_H_
